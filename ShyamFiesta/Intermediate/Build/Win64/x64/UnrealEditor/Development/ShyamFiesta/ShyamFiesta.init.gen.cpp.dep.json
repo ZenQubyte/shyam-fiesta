@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\isaiah\\documents\\unreal projects\\shyam-fiesta\\shyamfiesta\\intermediate\\build\\win64\\unrealeditor\\inc\\shyamfiesta\\uht\\shyamfiesta.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\isaiah\\documents\\unreal projects\\shyam-fiesta\\shyamfiesta\\intermediate\\build\\win64\\x64\\shyamfiestaeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\isaiah\\documents\\unreal projects\\shyam-fiesta\\shyamfiesta\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shyamfiesta\\definitions.shyamfiesta.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

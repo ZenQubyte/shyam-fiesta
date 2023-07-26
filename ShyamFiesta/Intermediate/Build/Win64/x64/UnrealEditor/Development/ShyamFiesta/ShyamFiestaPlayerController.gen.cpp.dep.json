@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\isaiah\\documents\\unreal projects\\shyam-fiesta\\shyamfiesta\\intermediate\\build\\win64\\unrealeditor\\inc\\shyamfiesta\\uht\\shyamfiestaplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\isaiah\\documents\\unreal projects\\shyam-fiesta\\shyamfiesta\\intermediate\\build\\win64\\x64\\shyamfiestaeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\isaiah\\documents\\unreal projects\\shyam-fiesta\\shyamfiesta\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shyamfiesta\\definitions.shyamfiesta.h",
+            "c:\\users\\isaiah\\documents\\unreal projects\\shyam-fiesta\\shyamfiesta\\source\\shyamfiesta\\shyamfiestaplayercontroller.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "c:\\users\\isaiah\\documents\\unreal projects\\shyam-fiesta\\shyamfiesta\\intermediate\\build\\win64\\unrealeditor\\inc\\shyamfiesta\\uht\\shyamfiestaplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
